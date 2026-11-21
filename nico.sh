@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo "# GIT_Practice_1" >> README.md
 git init
 git add README.md
