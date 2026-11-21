@@ -7,7 +7,6 @@ git remote add origin https://github.com/nicofajre-gitbot/GIT_Practice_1.git
 git push -u origin main
 
 #Setting up Git user information for this repository
-run
 git config --global user.name "nicofajre-gitbot"
 git config --global user.email "nicofajre@gmail.com"
 # Treat divergence in Git
