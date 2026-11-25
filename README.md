@@ -9,3 +9,4 @@ git config pull.rebase false #merge (the default strategy)
 git config pull.rebase true #rebase (Replays local commits on top of the updated remote branch)
 git config pull.ff only #fast-forward only (refuses to merge and rebase when the local branch and the remote branch have diverged)
 # We will choose between these when applicable.
+# This is the end of practice. Let's get to work.
